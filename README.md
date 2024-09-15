@@ -24,7 +24,7 @@
             <pre><code>git clone https://github.com/Shahzar-Ali/Virtual-Landing-Page.git</code></pre>
         </li>
         <li><strong>Navigate to the project directory:</strong>
-            <pre><code>cd virtual-landing-page</code></pre>
+            <pre><code>cd Virtual-Landing-Page</code></pre>
         </li>
         <li><strong>Install node packages:</strong>
             <pre><code>npm install</code></pre>
